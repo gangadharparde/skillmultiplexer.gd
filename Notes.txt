@@ -1,0 +1,45 @@
+-More in-depth questions about the language at hand and central libraries. (For Java, the Collections framework is focused on heavil
+-Questions about Design Patterns (Gang of 4 book).
+-Questions about unit and integration testing, Agile Practices.
+-White board a function to calculate a Fibonacci sequence for n
+
+
+https://db-engines.com/en/system/Elasticsearch%3BMemcached%3BRedis
+
+Apache Kafka:
+is an open-source stream-processing software platform developed by the Apache Software Foundation, written in Scala and Java
+
+JAVA NIO:
+In the standard IO API you work with byte streams and character streams. In NIO you work with channels and buffers. Data is always read from a channel into a buffer, or written from a buffer to a channel.
+
+Redis:
+is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries. 
+Verizon, Vodafone, Atlassian, Trip Advisor, Jet.com, Nokia, Samsung, HTC, Docker, Staples, Intuit, Groupon, Shutterfly, KPMG, TD Bank, UnitedHealthcare, RingCentral, The Motley Fool, Bleacher Report, HipChat, Salesforce, Hotel Tonight, Cirruspath, Itslearning.com, Xignite, Chargify, Rumble Entertainment, Scopely, Havas Digital, Revmob, MSN, Bleacher Report, Mobli, TMZ, Klarna, Shopify
+
+Elasticsearch:
+A distributed, RESTful modern search and analytics engine based on Apache Lucene
+Elasticsearch is a highly scalable open source full-text search and analytics engine. It allows you to store, search, and analyze big volumes of data quickly and in near real time. It is generally used as the underlying engine/technology that powers applications that have complex search features and requirements. Elasticsearch is a search engine based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is available under the Apache 2.0 with additional free and paid features under the Elastic License.
+Cisco, eBay, Goldman Sachs, NASA, Microsoft, Mayo Clinic, The New York Times, Wikipedia, and Verizon use Elastic to power mission-critical systems.
+
+
+
+
+
+Lucene
+Direct Web Remoting (DWR)
+High Availability
+memcached
+Redis 
+Dynamic Programming
+Scalable Web Applications
+Solr
+Cassandra
+
+
+Scalability issue. Function receiving a streaming array of characters. Length might be in millions. So, array.length() is out of the question. Array is sorted ascending. Contains duplicates. Find the nth largest element.
+HashMaps. Everything about it. Java hashing, hashcoding classes, general principal behind hashing, collision etc. 
+Cliche questions- final, finally. Exceptions, design patterns, MVC. Resume explanation, etc etc. 
+Questions on Binary Search Tree. for eg, checking if a given tree is BST, Maximum diameter of BST.  
+Write the fibonacci sequence function. Design questions.  
+Maximum rectangle to  fit list of given points on co-ordinate system, Fibonacci, etc.
+
